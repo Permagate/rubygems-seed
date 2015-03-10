@@ -1,0 +1,6 @@
+tmp
+Gemfile.lock
+coverage
+docs/tomdoc
+.yardoc
+*.gem
